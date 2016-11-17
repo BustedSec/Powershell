@@ -7,7 +7,7 @@ $percentCritcal = 15;
  
 # EMAIL PROPERTIES 
  # Set the recipients of the report. 
-  $users = "me@spiceworks.com" 
+  $users = "me@sdomain.com" 
  
 # REPORT PROPERTIES 
  # Path to the report 
